@@ -1,73 +1,70 @@
-# Welcome to your Lovable project
+# 🎓 Student Portal – Login & Connect
 
-## Project info
+A web-based Student Portal application that provides secure authentication and a clean user interface for students to log in and access portal features. This project focuses on simplicity, usability, and modern frontend development practices, making it suitable for academic and portfolio use.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 🚀 Features
 
-There are several ways of editing your application.
+- 🔐 Student login authentication system  
+- 🧑‍🎓 User-friendly student portal interface  
+- 🎨 Clean and responsive UI design  
+- ⚡ Fast performance and smooth navigation  
+- 🌐 Web-based application  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 🛠️ Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Frontend:** HTML, CSS, JavaScript / TypeScript  
+- **Framework / Tooling:** Vite  
+- **Styling:** Tailwind CSS  
+- **Package Manager:** npm  
 
-**Use your preferred IDE**
+*(Update this section if you are using React, backend APIs, or authentication services)*
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 📂 Project Structure
 
-Follow these steps:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+student-portal-login-connect/
+├── src/ # Application source code
+├── public/ # Static assets
+├── index.html # Main HTML file
+├── package.json # Project dependencies and scripts
+└── README.md # Project documentation
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## ▶️ Getting Started
+
+### Prerequisites
+- Node.js (v16 or higher recommended)
+- npm installed
+
+### Installation
+```bash
+npm install
+Run the project
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+The application will be available at:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+http://localhost:5173
+🎯 Use Cases
 
-**Use GitHub Codespaces**
+Student login and portal access systems
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Academic and mini-project demonstrations
 
-## What technologies are used for this project?
+Frontend authentication flow practice
 
-This project is built with:
+Portfolio and placement showcase
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+👩‍💻 Author
 
-## How can I deploy this project?
+Priyadharshini P
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+This project was developed by me with AI-assisted development support to enhance productivity and explore modern web development techniques.
